@@ -1,4 +1,4 @@
-# Disciplina de Programação 1 - CADS
+# Disciplina de Programação Orientada a Objeto
 
 Contém o projeto do sistema que está sendo construído na disciplina.
 
